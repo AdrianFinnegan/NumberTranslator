@@ -1,0 +1,31 @@
+﻿#ignore thumbnails created by windows
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.vs/
+
+# Build results
+[Bb]in
+[Bb]in/
+[Oo]bj
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebug*/
+[Rr]elease
+*.exe
+*.pdb
+
+# NuGet Packages Directory
+packages
+
+
+
+# Unit Test Files
+TranslationService.Tests/[Bb]in/
+TranslationService.Tests/[Oo]bj/
+
+# include nuget.exe
+!nuget.exe
